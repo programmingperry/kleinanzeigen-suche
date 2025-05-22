@@ -1,0 +1,11 @@
+# Bildquellen
+- JavaScript Logo: https://github.com/voodootikigod/logo.js
+- schuhe.jpg: https://www.pexels.com/photo/shallow-focus-photography-of-pair-of-red-low-top-sneakers-1240892/
+- schuhe2.jpg: https://www.pexels.com/photo/assorted-unpaired-sneakers-267202/
+- schuhe3.jpg: https://www.pexels.com/photo/nike-shoes-on-black-backround-1598505/
+- tassen.jpg: https://www.pexels.com/photo/red-and-black-ceramic-mugs-173955/
+- pizza.jpg: https://www.pexels.com/photo/regal-pan-pizza-on-box-375467/
+- pizza2.jpg: https://www.pexels.com/photo/pizza-neon-light-signage-1596888/
+- fahrrad.jpg: https://www.pexels.com/photo/pink-beach-cruiser-bicycle-near-wall-1431117/
+- fahrrad2.jpg https://www.pexels.com/photo/black-and-white-hardtail-bike-on-brown-road-between-trees-100582/
+- schild.jpg: https://www.pexels.com/photo/laugh-neon-light-signage-turned-on-1115680/
